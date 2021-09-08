@@ -1,0 +1,19 @@
+I"�<h1 id="基于jekyll与github-pages搭建个人主页">基于Jekyll与GitHub Pages搭建个人主页</h1>
+
+<blockquote>
+  <p>作为个人主页的第一篇文章，来进行个人主页的搭建的学习与记录，搭建个人主页主要是出于兴趣以及记录自己学习成长的需要，欢迎批评指正~</p>
+</blockquote>
+
+<h2 id="教程来源">教程来源</h2>
+
+<p>个人主页的搭建，主要基于以下教程</p>
+
+<p><a href="https://www.bilibili.com/video/BV14x411t7ZU?from=search&amp;seid=2697956358121445027&amp;spm_id_from=333.337.0.0">b站搭建个人主页的视频教程</a></p>
+
+<p><a href="https://www.jianshu.com/p/58e2c5ea3103">在windows上安装jekyll</a></p>
+
+<p><a href="https://github.com/leopardpan/leopardpan.github.io">模板来源</a></p>
+
+<p><strong>重要提醒</strong>：安装ruby时，不要安装最新版，最新版与jekyll不兼容，亲测2.6.8可用</p>
+
+:ET
